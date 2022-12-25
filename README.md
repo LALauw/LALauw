@@ -1,6 +1,6 @@
 <h2> Hi There 👋 , I'm Leslie Lauw.</h2>
 
-I'm a student software developer, graduation year, based in The Netherlands. Currently doing my thesis assignment for KOIOS. I specialize in full-stack development and am extremely interested in the web3 space. 
+I'm a software developer with a Bsc in Software Engineering, based in The Netherlands. Currently contributing to KOIOS. I specialize in full-stack development and am extremely interested in the web3 space. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
