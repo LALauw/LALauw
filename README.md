@@ -4,7 +4,6 @@ I'm a software developer with a Bsc in Software Engineering, based in The Nether
 
 - 🖥️ Visit my portfolio at <a href="https://lalauw.com">lalauw.com</a>
 - ✉️ Contact me at [lauw2498@live.nl](mailto:lauw2498@live.nl)
-- 🛠 Open to offers
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
