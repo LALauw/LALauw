@@ -1,6 +1,6 @@
 <h2> Hi There 👋 , I'm Leslie Lauw.</h2>
 
-I'm a software developer with a Bsc in Software Engineering, based in The Netherlands. Currently contributing to KOIOS. I specialize in full-stack development and am extremely interested in new technologies and the web3 space. 
+I'm a software developer with a Bsc in Software Engineering, based in The Netherlands. Currently working as a web3 developer for Lucky Kat Studios. I specialize in full-stack development and am extremely interested in new technologies and the web3 space. 
 
 - 🖥️ Visit my portfolio at <a href="https://lalauw.com">lalauw.com</a>
 - ✉️ Contact me at [lauw2498@live.nl](mailto:lauw2498@live.nl)
